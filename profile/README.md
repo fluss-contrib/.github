@@ -1,6 +1,6 @@
 # Note
 
-fluss-contrib is a collection of unofficial, community-contributed extensions and add-ons for Apache Fluss.
+fluss-contrib is a collection of unofficial, community-contributed extensions and add-ons for [Apache Fluss](https://github.com/apache/fluss).
 
 Projects hosted in this organization are independently maintained. They are neither provided by nor endorsed by the Apache Fluss project or the Apache Software Foundation.
 
