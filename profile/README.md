@@ -1,4 +1,4 @@
-# fluss-contrib
+# Note
 
 fluss-contrib is a collection of unofficial, community-contributed extensions and add-ons for Apache Fluss.
 
